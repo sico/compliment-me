@@ -1,0 +1,8 @@
+Let's do this:
+- Using jquery & AJAX, display a list of compliments from the API (currently at /comps relative to the index page)
+- Using Jquery and AJAX, write a simple form to add a new compliment and display it in the list
+
+Bonus round!
+- Prevent blank entries
+- Display one compliment (new endpoint)
+- delete compliments
