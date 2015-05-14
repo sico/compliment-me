@@ -6,6 +6,7 @@ A simple Ruby frontend / API for serving compliments (or whatever).
 
 ## Requirements
 - Ruby 2.0.0 or newer
+- Bundler
 - Sqlite
 
 ## Uses
